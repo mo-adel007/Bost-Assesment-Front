@@ -1,0 +1,3 @@
+export const GET_SHIPMENT_DATA ="GET_SHIPMENT_DATA"
+
+export const IS_LOADING = "IS_LOADING"

@@ -1,0 +1,62 @@
+.logoDivStyle {
+  position: relative;
+  width: 200px;
+  /* background-color: red */
+}
+.titleBrand {
+  position: absolute;
+  top: 0%;
+  color: rgb(255, 2, 2);
+  text-decoration: none;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.navItems {
+  font-weight: 700;
+  font-size: 17px;
+  color: black;
+  padding: 5px 20px;
+  margin: 0px 5px;
+  /* background-color: red; */
+}
+.changeLanguageBtn {
+  text-transform: uppercase;
+  border: none;
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(200, 4, 4);
+  font-weight: 700;
+  height: 100%;
+  width: 100px;
+  text-transform: capitalize;
+}
+.optionLanguageBtn {
+  border: none;
+  color: black;
+  font-weight: 600;
+  font-size: 14px;
+}
+.searchDialog {
+  position: absolute;
+  background-color: white;
+  padding: 10px;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: 3px;
+  display: none;
+}
+.handleDialog {
+  display: flex;
+}
+.searchIcon {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  padding: 6px 10px;
+  border: none;
+  border-bottom-left-radius: 3px;
+  border-top-left-radius: 3px;
+  background-color: red;
+  color: white;
+}

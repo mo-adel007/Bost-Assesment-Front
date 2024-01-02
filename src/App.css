@@ -1,0 +1,4 @@
+/* Use the font name: Cairo (search for it) and make the font weight adjustment similar to the one shown below. (6) */
+body {
+    font-family: "Cairo" !important;
+}
